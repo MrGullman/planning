@@ -1,0 +1,36 @@
+{
+  "20200514" : [
+    {
+      "ordernr" : "00111232",
+      "company" : "Skanska Sverige AB",
+      "work-site" : "Skanskagatan"
+    },
+    {
+      "ordernr" : "00111233",
+      "company" : "Kalles Bygg",
+      "work-site" : "Gjutaren"
+    },
+    {
+      "ordernr" : "20200516",
+      "company" : "MTA",
+      "work-site" : "Gamletull"
+    }
+  ],
+  "20200515" : [
+    {
+      "ordernr" : "00111232",
+      "company" : "Skanska Sverige AB",
+      "work-site" : "Skanskagatan"
+    },
+    {
+      "ordernr" : "00111233",
+      "company" : "Kalles Bygg",
+      "work-site" : "Gjutaren"
+    },
+    {
+      "ordernr" : "20200516",
+      "company" : "MTA",
+      "work-site" : "Gamletull"
+    }
+  ]
+}
